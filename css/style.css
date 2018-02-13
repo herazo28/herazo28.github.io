@@ -8501,9 +8501,9 @@
 	}
 
 	.logo{
-		max-height: 100% !important;
+		max-height: 250% !important;
 		height: auto !important;
-		max-width: 100% !important;
+		max-width: 150%;
 		width: auto !important;
 		border: 0 ;
 		vertical-align: middle;
